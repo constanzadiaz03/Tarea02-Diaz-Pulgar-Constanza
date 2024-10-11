@@ -1,2 +1,3 @@
 # Tarea02-Diaz-Pulgar-Constanza
-Tarea 02 Redes de Computadores
+## Integrantes
+Constanza Romina Díaz Pulgar (constanza.diazpu@alumnos.uv.cl)
